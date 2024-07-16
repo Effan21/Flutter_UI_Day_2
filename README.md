@@ -1,6 +1,5 @@
 # day2_app
-
-A new Flutter project.
+Day 2 of Flutter UI 50 days flutter UI challenge
 
 ## Getting Started
 
